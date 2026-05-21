@@ -1,0 +1,41 @@
+{
+  "cs2": {
+    "type": "cs2",
+    "container": "cs2server",
+    "appid": "730",
+    "host": "",
+    "port": 0,
+    "env_password": "RCON_CS2",
+    "status_channel_id": 0,
+    "status_message_id": 0,
+    "update_channel_id": 0,
+    "messages_channel_id": "",
+    "buildid": 0
+  },
+  "unturned": {
+    "type": "unturned",
+    "container": "unturned",
+    "appid": "1110390",
+    "host": "",
+    "port": 0,
+    "env_password": "RCON_UNT",
+    "status_channel_id": 0,
+    "status_message_id": 0,
+    "update_channel_id": 0,
+    "messages_channel_id": 0,
+    "buildid": 0
+  },
+  "unturned_mod": {
+    "type": "unturned_mod",
+    "container": "unturned_mod",
+    "appid": "1110390",
+    "host": "",
+    "port": 27024,
+    "env_password": "RCON_UNT",
+    "status_channel_id": 0,
+    "status_message_id": 0,
+    "update_channel_id": 0,
+    "messages_channel_id": 0,
+    "buildid": 0
+  }
+}

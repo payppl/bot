@@ -1,0 +1,11 @@
+discord.py==2.4.0
+rcon
+asyncio
+logging
+python-a2s
+aiohttp
+pathlib
+docker
+datetime
+dotenv
+watchdog

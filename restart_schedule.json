@@ -1,0 +1,13 @@
+{
+  "cs2": {
+    "hour": 4,
+    "minute": 30,
+    "enabled": false
+  },
+  "unturned": {
+    "hour": 4,
+    "minute": 0,
+    "enabled": true,
+    "last_run": "2026-04-22"
+  }
+}
